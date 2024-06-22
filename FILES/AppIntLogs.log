@@ -1,0 +1,2678 @@
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psv.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vactivator.emea.eu.ext'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vsv.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.emea.eu.int'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+http://pgateway.ema.europa.eu (202)
+http://pgateway.ema.europa.eu:8080 (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pgateway.ema.europa.eu:8080: Message: unknown error: net::ERR_SSL_PROTOCOL_ERROR
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF79006C353]
+	(No symbol) [0x00007FF79005F4CC]
+	(No symbol) [0x00007FF790060714]
+	(No symbol) [0x00007FF79005F8DF]
+	(No symbol) [0x00007FF79005E803]
+	(No symbol) [0x00007FF79005E7A8]
+	(No symbol) [0x00007FF79005CF0E]
+	(No symbol) [0x00007FF79005D803]
+	(No symbol) [0x00007FF7900729BF]
+	(No symbol) [0x00007FF7900EAE27]
+	(No symbol) [0x00007FF7900D20AA]
+	(No symbol) [0x00007FF7900EAAA4]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://pgateway.ema.europa.eu:8080 has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://pgateway.ema.europa.eu (202)
+https://psv.ema.europa.eu (403)
+http://vactivator.emea.eu.ext (202)
+https://vactivator.emea.eu.ext (202)
+http://vgateway.ema.europa.eu (202)
+https://vgateway.ema.europa.eu (202)
+https://vsv.ema.europa.eu (403)
+http://vgateway.ema.europa.eu:8080 (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://vgateway.ema.europa.eu:8080: Message: unknown error: net::ERR_SSL_PROTOCOL_ERROR
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF79006C353]
+	(No symbol) [0x00007FF79005F4CC]
+	(No symbol) [0x00007FF790060714]
+	(No symbol) [0x00007FF79005F8DF]
+	(No symbol) [0x00007FF79005E803]
+	(No symbol) [0x00007FF79005E7A8]
+	(No symbol) [0x00007FF79005CF0E]
+	(No symbol) [0x00007FF79005D803]
+	(No symbol) [0x00007FF7900729BF]
+	(No symbol) [0x00007FF7900EAE27]
+	(No symbol) [0x00007FF7900D20AA]
+	(No symbol) [0x00007FF7900EAAA4]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://vgateway.ema.europa.eu:8080 has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://clinicaldata.ema.europa.eu (200)
+https://clinicaldata.ema.europa.eu/$ (404)
+https://clinicaldata.ema.europa.eu/documents/ (200)
+https://clinicaldata.ema.europa.eu/home$ (404)
+https://clinicaldata.ema.europa.eu/web/cdp/browsebycategory.+p_p_resource_id=download.* (404)
+https://clinicaldata.ema.europa.eu/web/cdp/browsebycategory/download (404)
+https://clinicaldata.ema.europa.eu/web/cdp/search.+p_p_resource_id=download.* (404)
+https://clinicaldata.ema.europa.eu/web/cdp/search/download (404)
+http://clinicaltrialsregister.eu (200)
+https://euclinicaltrials.emea.eu.int (404)
+https://euclinicaltrials.eu (200)
+https://euclinicaltrials.eu/c/portal/login (404)
+https://euclinicaltrials.eu/ct-authority-services (200)
+https://euclinicaltrials.eu/ct-public-api-services (403)
+https://euclinicaltrials.eu/ct-sponsor-services (200)
+https://euclinicaltrials.eu/home (200)
+https://euctis.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://euctis.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://euctis.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://euctis.ema.europa.eu/ct-authority-services (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://euctis.ema.europa.eu/ct-authority-services: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://euctis.ema.europa.eu/ct-authority-services has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://euctis.ema.europa.eu/ct-public-api-services (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://euctis.ema.europa.eu/ct-public-api-services: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://euctis.ema.europa.eu/ct-public-api-services has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://euctis.ema.europa.eu/ct-sponsor-services (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://euctis.ema.europa.eu/ct-sponsor-services: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://euctis.ema.europa.eu/ct-sponsor-services has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://liferaydefault-7.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://liferaydefault-7.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://liferaydefault-7.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://liferaydefault-7.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://liferaydefault-7.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://liferaydefault-7.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://www.clinicaltrialsregister.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://www.clinicaltrialsregister.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://www.clinicaltrialsregister.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://www.clinicaltrialsregister.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://www.clinicaltrialsregister.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://www.clinicaltrialsregister.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://www-training.clinicaltrialsregister.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://www-training.clinicaltrialsregister.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://www-training.clinicaltrialsregister.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://www-training.clinicaltrialsregister.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://www-training.clinicaltrialsregister.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://www-training.clinicaltrialsregister.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euclinicaltrials.emea.eu.int: HTTPConnectionPool(host='euclinicaltrials.emea.eu.int', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000259722B6310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+http://euclinicaltrials.emea.eu.int has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudract.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudract.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudract.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract.emea.eu.int (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract.emea.eu.int: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract.emea.eu.int has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract-ecdm-rest-training.emea.eu.int (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-ecdm-rest-training.emea.eu.int: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract-ecdm-rest-training.emea.eu.int has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract-training.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-training.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract-training.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudract-training.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudract-training.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudract-training.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract-training.emea.eu.int (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-training.emea.eu.int: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract-training.emea.eu.int has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudrapharm.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudrapharm.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudrapharm.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.ema.europa.eu (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.ema.europa.eu has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eutct.ema.europa.eu (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eutct.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eutct.ema.europa.eu has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://aem.eudra.org (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://aem.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://aem.eudra.org has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://api-cr.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://api-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://api-cr.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://api-cr.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://api-cr.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://api-cr.eudra.org/$ (400)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/$: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://api-cr.eudra.org/$ has an error, and responds with 400
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://api-cr.eudra.org/dossiers/[a-zA-Z0-9_\-()]+/sequences/[a-zA-Z0-9_\-()]+/workingdocuments (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/dossiers/[a-zA-Z0-9_\-()]+/sequences/[a-zA-Z0-9_\-()]+/workingdocuments: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://api-cr.eudra.org/dossiers/[a-zA-Z0-9_\-()]+/sequences/[a-zA-Z0-9_\-()]+/workingdocuments has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://api-cr.eudra.org/resources (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/resources: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://api-cr.eudra.org/resources has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://askema.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://askema.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://askema.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://bi.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://bi.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://bi.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://bi.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://bi.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://bi.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://bpel.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://bpel.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://bpel.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://contactsexport.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://contactsexport.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://contactsexport.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://corpgxp.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://corpgxp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://corpgxp.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://corpgxp-weblogic.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://corpgxp-weblogic.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://corpgxp-weblogic.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://docs.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://docs.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://docs.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://docs.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://docs-upgrade.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs-upgrade.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://docs-upgrade.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://docs-upgrade.eudra.org (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs-upgrade.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://docs-upgrade.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://docs-xcomp.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs-xcomp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://docs-xcomp.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://docs-xcomp.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs-xcomp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://docs-xcomp.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ecdm.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'liferaydefault-7.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'liferaydefault-7.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'liferaydefault-7.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'liferaydefault-7.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Error processing http://ecdm.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://ecdm.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ecdm-rest.eudra.org (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ecdm-rest.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://ecdm-rest.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://ecdm-rest.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://ecdm-rest.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://ecdm-rest.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ema-wip.eudra.org: HTTPConnectionPool(host='ema-wip.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000259722B1BD0>: Failed to resolve 'ema-wip.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://ema-wip.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudract-training.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-training.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudract-training.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudragmdp.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudragmdp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudragmdp.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudragmp.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudragmp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudragmp.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eutct.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eutct.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eutct.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/eutctid/ (400)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/eutctid/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/eutctid/ has an error, and responds with 400
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/gsearch/: HTTPConnectionPool(host='spor.eudra.org', port=80): Read timed out. (read timeout=10)
+http://eutct.eudra.org/eutct/gsearch/ has an error, and responds with 400
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/lists/ (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/lists/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/lists/ has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/registerterm/ (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/registerterm/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/registerterm/ has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/searchdynamic/ (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/searchdynamic/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/searchdynamic/ has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/searchstatic/ (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/searchstatic/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/searchstatic/ has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.eudra.org/eutct/terms/ (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/terms/: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eutct.eudra.org/eutct/terms/ has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://euteleproj.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euteleproj.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://euteleproj.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euteleproj.eudra.org/eudragmp/doc: Exceeded 30 redirects.
+http://euteleproj.eudra.org/eudragmp/doc has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://evlit.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://evlit.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://evlit.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://experts.eudra.org: No host specified.
+http://experts.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://experts.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://experts.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://experts.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://paediatrics.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://paediatrics.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://paediatrics.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://paediatrics.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://paediatrics.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://paediatrics.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://pfoi.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pfoi.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://pfoi.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://pmnca.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pmnca.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://pmnca.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://psur-repo.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://psur-repo.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://psur-repo.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://psur-repo.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://psur-repo.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://psur-repo.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://psur-repo-xcomp.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://psur-repo-xcomp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://psur-repo-xcomp.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://psur-repo-xcomp.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://psur-repo-xcomp.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://psur-repo-xcomp.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://seeder-cr.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://seeder-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://seeder-cr.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://services.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://services.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://services.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://spor.eudra.org (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://spor.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://spor.eudra.org has an error, and responds with 404
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://tracker1-cr.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://tracker1-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://tracker1-cr.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://tracker2-cr.eudra.org (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://tracker2-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://tracker2-cr.eudra.org has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://vod.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://vod.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://vod.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://web-cr.eudra.org (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://web-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://web-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://web-cr.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://web-cr.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://web-cr.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://www.eudra.org (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://www.eudra.org: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://www.eudra.org has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://dcs.eudravigilance-prod.emea.eu.int:389: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+http://dcs.eudravigilance-prod.emea.eu.int:389 has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://dcs.eudravigilance-training.emea.eu.int:389: HTTPConnectionPool(host='dcs.eudravigilance-training.emea.eu.int', port=389): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000259722E4250>: Failed to resolve 'dcs.eudravigilance-training.emea.eu.int' ([Errno 11001] getaddrinfo failed)"))
+http://dcs.eudravigilance-training.emea.eu.int:389 has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://dcs.eudravigilance-xcomp.emea.eu.int:389: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+http://dcs.eudravigilance-xcomp.emea.eu.int:389 has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudravigilance.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www-training.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www-training.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract-training.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract-training.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'bi.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'docs.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'docs-upgrade.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'docs-xcomp.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'ecdm-rest.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'experts.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'paediatrics.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'paediatrics.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo-xcomp.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo-xcomp.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'web-cr.eudra.org'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1095: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-offline.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\bragar\ProPyScripts\InfraOpsNMS\automated_app_testingv3.2\appprod3\PACKAGES\fn_window.py", line 26, in <lambda>
+    close_button = tk.Button(new_window, text="Proceed", command=lambda: [new_window.destroy(), callback()])
+                                                                                                ^^^^^^^^^^
+  File "c:\Users\bragar\ProPyScripts\InfraOpsNMS\automated_app_testingv3.2\appprod3\EMA.py", line 43, in cb_int_path_check
+    exec(url_code)
+  File "<string>", line 48, in <module>
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 790, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 467, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 1092, in _validate_conn
+    conn.connect()
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 611, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 203, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bragar\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 81, in create_connection
+    sock.close()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\socket.py", line 499, in close
+    def close(self):
+    
+KeyboardInterrupt
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+           ^^^^^^^^^^^^^^^^
+  File "c:\Users\bragar\ProPyScripts\InfraOpsNMS\automated_app_testingv3.2\appprod3\EMA.py", line 27, in int_path_check
+    tk.mainloop()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 650, in mainloop
+    _get_default_root('run the main loop').tk.mainloop(n)
+KeyboardInterrupt
+Error processing http://eudravigilance.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudravigilance.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudravigilance.ema.europa.eu (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudravigilance.ema.europa.eu has an error, and responds with 403
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudravigilance-human.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-human.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudravigilance-human.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudravigilance-human.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-human.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudravigilance-human.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-human-xcomp.ema.europa.eu: Exceeded 30 redirects.
+http://eudravigilance-human-xcomp.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudravigilance-human-xcomp.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-human-xcomp.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudravigilance-human-xcomp.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eudravigilance-offline.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-offline.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://eudravigilance-offline.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudravigilance-offline.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-offline.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+https://eudravigilance-offline.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://evtest-offline.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://evtest-offline.ema.europa.eu: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=119.0.6045.105)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7902482B2+55298]
+	(No symbol) [0x00007FF7901B5E02]
+	(No symbol) [0x00007FF7900705AB]
+	(No symbol) [0x00007FF790050038]
+	(No symbol) [0x00007FF7900D6BC7]
+	(No symbol) [0x00007FF7900EA15F]
+	(No symbol) [0x00007FF7900D1E83]
+	(No symbol) [0x00007FF7900A670A]
+	(No symbol) [0x00007FF7900A7964]
+	GetHandleVerifier [0x00007FF7905C0AAB+3694587]
+	GetHandleVerifier [0x00007FF79061728E+4048862]
+	GetHandleVerifier [0x00007FF79060F173+4015811]
+	GetHandleVerifier [0x00007FF7902E47D6+695590]
+	(No symbol) [0x00007FF7901C0CE8]
+	(No symbol) [0x00007FF7901BCF34]
+	(No symbol) [0x00007FF7901BD062]
+	(No symbol) [0x00007FF7901AD3A3]
+	BaseThreadInitThunk [0x00007FFAC0A97344+20]
+	RtlUserThreadStart [0x00007FFAC27026B1+33]
+
+http://evtest-offline.ema.europa.eu has an error, and responds with 200
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Traceback (most recent call last):
+  File "c:\Users\bragar\ProPyScripts\InfraOpsNMS\automated_app_testingv3.2\appprod3\EMA.py", line 208, in <module>
+    window.mainloop()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1776.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt

@@ -1,0 +1,1492 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pgateway.ema.europa.eu: HTTPConnectionPool(host='pgateway.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025558AF0D90>, 'Connection to pgateway.ema.europa.eu timed out. (connect timeout=10)'))
+http://pgateway.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://pgateway.ema.europa.eu:8080 (404)
+https://pgateway.ema.europa.eu (500)
+https://psv.ema.europa.eu (403)
+http://vactivator.emea.eu.ext is Internal domain
+https://vactivator.emea.eu.ext is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://vgateway.ema.europa.eu: HTTPConnectionPool(host='vgateway.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554101ED0>, 'Connection to vgateway.ema.europa.eu timed out. (connect timeout=10)'))
+http://vgateway.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://vgateway.ema.europa.eu (500)
+https://vsv.ema.europa.eu (403)
+http://vgateway.ema.europa.eu:8080 (404)
+https://clinicaldata.ema.europa.eu (200)
+https://clinicaldata.ema.europa.eu/$ (200)
+https://clinicaldata.ema.europa.eu/documents/ (200)
+https://clinicaldata.ema.europa.eu/home$ (200)
+https://clinicaldata.ema.europa.eu/web/cdp/browsebycategory.+p_p_resource_id=download.* (200)
+https://clinicaldata.ema.europa.eu/web/cdp/browsebycategory/download (200)
+https://clinicaldata.ema.europa.eu/web/cdp/search.+p_p_resource_id=download.* (200)
+https://clinicaldata.ema.europa.eu/web/cdp/search/download (200)
+http://clinicaltrialsregister.eu (200)
+https://euclinicaltrials.emea.eu.int is Internal domain
+https://euclinicaltrials.eu (200)
+https://euclinicaltrials.eu/c/portal/login (500)
+https://euclinicaltrials.eu/ct-authority-services (200)
+https://euclinicaltrials.eu/ct-public-api-services (403)
+https://euclinicaltrials.eu/ct-sponsor-services (200)
+https://euclinicaltrials.eu/home (200)
+https://euctis.ema.europa.eu (500)
+https://euctis.ema.europa.eu/ct-authority-services (500)
+https://euctis.ema.europa.eu/ct-public-api-services (500)
+https://euctis.ema.europa.eu/ct-sponsor-services (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://liferaydefault-7.ema.europa.eu: HTTPConnectionPool(host='liferaydefault-7.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554102090>: Failed to resolve 'liferaydefault-7.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://liferaydefault-7.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://liferaydefault-7.ema.europa.eu: HTTPSConnectionPool(host='liferaydefault-7.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554128390>: Failed to resolve 'liferaydefault-7.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://liferaydefault-7.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://www.clinicaltrialsregister.eu (200)
+https://www.clinicaltrialsregister.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://www-training.clinicaltrialsregister.eu: HTTPConnectionPool(host='www-training.clinicaltrialsregister.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002555413A010>: Failed to resolve 'www-training.clinicaltrialsregister.eu' ([Errno 11001] getaddrinfo failed)"))
+http://www-training.clinicaltrialsregister.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://www-training.clinicaltrialsregister.eu: HTTPSConnectionPool(host='www-training.clinicaltrialsregister.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554125850>: Failed to resolve 'www-training.clinicaltrialsregister.eu' ([Errno 11001] getaddrinfo failed)"))
+https://www-training.clinicaltrialsregister.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://euclinicaltrials.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract.ema.europa.eu: HTTPConnectionPool(host='eudract.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025558AF1110>, 'Connection to eudract.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudract.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudract.ema.europa.eu (200)
+http://eudract.emea.eu.int is Internal domain
+http://eudract-ecdm-rest-training.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-training.ema.europa.eu: HTTPConnectionPool(host='eudract-training.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541383D0>, 'Connection to eudract-training.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudract-training.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudract-training.ema.europa.eu (500)
+http://eudract-training.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudrapharm.eudra.org: HTTPConnectionPool(host='eudrapharm.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555413A610>, 'Connection to eudrapharm.eudra.org timed out. (connect timeout=10)'))
+http://eudrapharm.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://eutct.ema.europa.eu (200)
+https://eutct.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://aem.eudra.org: HTTPConnectionPool(host='aem.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002555412BE50>: Failed to resolve 'aem.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://aem.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://api-cr.eudra.org: HTTPConnectionPool(host='api-cr.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554125490>, 'Connection to api-cr.eudra.org timed out. (connect timeout=10)'))
+http://api-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org: HTTPSConnectionPool(host='api-cr.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002555413A5D0>, 'Connection to api-cr.eudra.org timed out. (connect timeout=10)'))
+https://api-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/$: HTTPSConnectionPool(host='api-cr.eudra.org', port=443): Max retries exceeded with url: /$ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554147B50>, 'Connection to api-cr.eudra.org timed out. (connect timeout=10)'))
+https://api-cr.eudra.org/$ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/dossiers/[a-zA-Z0-9_\-()]+/sequences/[a-zA-Z0-9_\-()]+/workingdocuments: HTTPSConnectionPool(host='api-cr.eudra.org', port=443): Max retries exceeded with url: /dossiers/%5Ba-zA-Z0-9_%5C-()%5D+/sequences/%5Ba-zA-Z0-9_%5C-()%5D+/workingdocuments (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554150E10>, 'Connection to api-cr.eudra.org timed out. (connect timeout=10)'))
+https://api-cr.eudra.org/dossiers/[a-zA-Z0-9_\-()]+/sequences/[a-zA-Z0-9_\-()]+/workingdocuments has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://api-cr.eudra.org/resources: HTTPSConnectionPool(host='api-cr.eudra.org', port=443): Max retries exceeded with url: /resources (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554152950>, 'Connection to api-cr.eudra.org timed out. (connect timeout=10)'))
+https://api-cr.eudra.org/resources has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://askema.eudra.org: HTTPConnectionPool(host='askema.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554125C90>: Failed to resolve 'askema.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://askema.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://bi.eudra.org: HTTPConnectionPool(host='bi.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025558ADE750>, 'Connection to bi.eudra.org timed out. (connect timeout=10)'))
+http://bi.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://bi.eudra.org: HTTPSConnectionPool(host='bi.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554146350>, 'Connection to bi.eudra.org timed out. (connect timeout=10)'))
+https://bi.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://bpel.eudra.org: HTTPConnectionPool(host='bpel.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554138190>, 'Connection to bpel.eudra.org timed out. (connect timeout=10)'))
+http://bpel.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://contactsexport.eudra.org: HTTPConnectionPool(host='contactsexport.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554137350>: Failed to resolve 'contactsexport.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://contactsexport.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://corpgxp.eudra.org: HTTPConnectionPool(host='corpgxp.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000255541532D0>: Failed to resolve 'corpgxp.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://corpgxp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://corpgxp-weblogic.eudra.org: HTTPConnectionPool(host='corpgxp-weblogic.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554138A90>: Failed to resolve 'corpgxp-weblogic.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://corpgxp-weblogic.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs.eudra.org: HTTPConnectionPool(host='docs.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555379CC90>, 'Connection to docs.eudra.org timed out. (connect timeout=10)'))
+http://docs.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs.eudra.org: HTTPSConnectionPool(host='docs.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000255541452D0>, 'Connection to docs.eudra.org timed out. (connect timeout=10)'))
+https://docs.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs-upgrade.eudra.org: HTTPConnectionPool(host='docs-upgrade.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554128390>, 'Connection to docs-upgrade.eudra.org timed out. (connect timeout=10)'))
+http://docs-upgrade.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs-upgrade.eudra.org: HTTPSConnectionPool(host='docs-upgrade.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025558AC3B90>, 'Connection to docs-upgrade.eudra.org timed out. (connect timeout=10)'))
+https://docs-upgrade.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://docs-xcomp.eudra.org: HTTPConnectionPool(host='docs-xcomp.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554160F90>: Failed to resolve 'docs-xcomp.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://docs-xcomp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://docs-xcomp.eudra.org: HTTPSConnectionPool(host='docs-xcomp.eudra.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255541260D0>: Failed to resolve 'docs-xcomp.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+https://docs-xcomp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ecdm.eudra.org: HTTPConnectionPool(host='ecdm.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555412B790>, 'Connection to ecdm.eudra.org timed out. (connect timeout=10)'))
+http://ecdm.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ecdm-rest.eudra.org: HTTPConnectionPool(host='ecdm-rest.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554153F50>, 'Connection to ecdm-rest.eudra.org timed out. (connect timeout=10)'))
+http://ecdm-rest.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://ecdm-rest.eudra.org: HTTPSConnectionPool(host='ecdm-rest.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000255541468D0>, 'Connection to ecdm-rest.eudra.org timed out. (connect timeout=10)'))
+https://ecdm-rest.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ema-wip.eudra.org: HTTPConnectionPool(host='ema-wip.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000255541380D0>: Failed to resolve 'ema-wip.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://ema-wip.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract.eudra.org: HTTPConnectionPool(host='eudract.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541613D0>, 'Connection to eudract.eudra.org timed out. (connect timeout=10)'))
+http://eudract.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudract-training.eudra.org: HTTPConnectionPool(host='eudract-training.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554137F50>: Failed to resolve 'eudract-training.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://eudract-training.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudragmdp.eudra.org: HTTPConnectionPool(host='eudragmdp.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541396D0>, 'Connection to eudragmdp.eudra.org timed out. (connect timeout=10)'))
+http://eudragmdp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudragmp.eudra.org: HTTPConnectionPool(host='eudragmp.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541454D0>, 'Connection to eudragmp.eudra.org timed out. (connect timeout=10)'))
+http://eudragmp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025558ADEA50>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eutct.eudra.org: HTTPSConnectionPool(host='eutct.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554126F90>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+https://eutct.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/eutctid/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/eutctid/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554161E10>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/eutctid/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/gsearch/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/gsearch/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025558AC3B90>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/gsearch/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/lists/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/lists/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555412B850>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/lists/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/registerterm/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/registerterm/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554147510>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/registerterm/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/searchdynamic/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/searchdynamic/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554147310>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/searchdynamic/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/searchstatic/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/searchstatic/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554138B90>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/searchstatic/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eutct.eudra.org/eutct/terms/: HTTPConnectionPool(host='eutct.eudra.org', port=80): Max retries exceeded with url: /eutct/terms/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554162990>, 'Connection to eutct.eudra.org timed out. (connect timeout=10)'))
+http://eutct.eudra.org/eutct/terms/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euteleproj.eudra.org: HTTPConnectionPool(host='euteleproj.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541639D0>, 'Connection to euteleproj.eudra.org timed out. (connect timeout=10)'))
+http://euteleproj.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euteleproj.eudra.org/eudragmp/doc: HTTPConnectionPool(host='euteleproj.eudra.org', port=80): Max retries exceeded with url: /eudragmp/doc (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554139ED0>, 'Connection to euteleproj.eudra.org timed out. (connect timeout=10)'))
+http://euteleproj.eudra.org/eudragmp/doc has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://evlit.eudra.org: HTTPConnectionPool(host='evlit.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554147DD0>, 'Connection to evlit.eudra.org timed out. (connect timeout=10)'))
+http://evlit.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://experts.eudra.org: HTTPConnectionPool(host='experts.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554103590>, 'Connection to experts.eudra.org timed out. (connect timeout=10)'))
+http://experts.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://experts.eudra.org: HTTPSConnectionPool(host='experts.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554153F50>, 'Connection to experts.eudra.org timed out. (connect timeout=10)'))
+https://experts.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://paediatrics.eudra.org: HTTPConnectionPool(host='paediatrics.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554127DD0>, 'Connection to paediatrics.eudra.org timed out. (connect timeout=10)'))
+http://paediatrics.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://paediatrics.eudra.org: HTTPSConnectionPool(host='paediatrics.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554160650>, 'Connection to paediatrics.eudra.org timed out. (connect timeout=10)'))
+https://paediatrics.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psv.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vgateway.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'vsv.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'clinicaldata.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pfoi.eudra.org: HTTPConnectionPool(host='pfoi.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554125C90>, 'Connection to pfoi.eudra.org timed out. (connect timeout=10)'))
+http://pfoi.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pmnca.eudra.org: HTTPConnectionPool(host='pmnca.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541363D0>, 'Connection to pmnca.eudra.org timed out. (connect timeout=10)'))
+http://pmnca.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://psur-repo.eudra.org: HTTPConnectionPool(host='psur-repo.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554103390>, 'Connection to psur-repo.eudra.org timed out. (connect timeout=10)'))
+http://psur-repo.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://psur-repo.eudra.org: HTTPSConnectionPool(host='psur-repo.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554161250>, 'Connection to psur-repo.eudra.org timed out. (connect timeout=10)'))
+https://psur-repo.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://psur-repo-xcomp.eudra.org: HTTPConnectionPool(host='psur-repo-xcomp.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554147450>, 'Connection to psur-repo-xcomp.eudra.org timed out. (connect timeout=10)'))
+http://psur-repo-xcomp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://psur-repo-xcomp.eudra.org: HTTPSConnectionPool(host='psur-repo-xcomp.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002555413B390>, 'Connection to psur-repo-xcomp.eudra.org timed out. (connect timeout=10)'))
+https://psur-repo-xcomp.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://seeder-cr.eudra.org: HTTPConnectionPool(host='seeder-cr.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555379CC90>, 'Connection to seeder-cr.eudra.org timed out. (connect timeout=10)'))
+http://seeder-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://services.eudra.org: HTTPConnectionPool(host='services.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554160790>, 'Connection to services.eudra.org timed out. (connect timeout=10)'))
+http://services.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://spor.eudra.org: HTTPConnectionPool(host='spor.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554163850>, 'Connection to spor.eudra.org timed out. (connect timeout=10)'))
+http://spor.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://tracker1-cr.eudra.org: HTTPConnectionPool(host='tracker1-cr.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002555413B050>, 'Connection to tracker1-cr.eudra.org timed out. (connect timeout=10)'))
+http://tracker1-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://tracker2-cr.eudra.org: HTTPConnectionPool(host='tracker2-cr.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554146DD0>, 'Connection to tracker2-cr.eudra.org timed out. (connect timeout=10)'))
+http://tracker2-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://vod.eudra.org: HTTPConnectionPool(host='vod.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554152F10>, 'Connection to vod.eudra.org timed out. (connect timeout=10)'))
+http://vod.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://web-cr.eudra.org: HTTPConnectionPool(host='web-cr.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554151850>, 'Connection to web-cr.eudra.org timed out. (connect timeout=10)'))
+http://web-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://web-cr.eudra.org: HTTPSConnectionPool(host='web-cr.eudra.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554147DD0>, 'Connection to web-cr.eudra.org timed out. (connect timeout=10)'))
+https://web-cr.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.microsoftonline.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euclinicaltrials.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'euctis.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.clinicaltrialsregister.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudract-training.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eutct.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudravigilance-human-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'accounts.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'accounts.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'askema-rest.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'bi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'bi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'charon-test.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'charon-test.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'contact-sync-v2.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+Error processing http://www.eudra.org: HTTPConnectionPool(host='www.eudra.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541389D0>, 'Connection to www.eudra.org timed out. (connect timeout=10)'))
+http://www.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://dcs.eudravigilance-prod.emea.eu.int:389 is Internal domain
+http://dcs.eudravigilance-training.emea.eu.int:389 is Internal domain
+http://dcs.eudravigilance-xcomp.emea.eu.int:389 is Internal domain
+http://eudravigilance.ema.europa.eu (200)
+https://eudravigilance.ema.europa.eu (403)
+http://eudravigilance-human.ema.europa.eu (200)
+https://eudravigilance-human.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-human-xcomp.ema.europa.eu: Exceeded 30 redirects.
+http://eudravigilance-human-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://eudravigilance-human-xcomp.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-offline.ema.europa.eu: HTTPConnectionPool(host='eudravigilance-offline.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554144DD0>: Failed to resolve 'eudravigilance-offline.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://eudravigilance-offline.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-offline.ema.europa.eu: HTTPSConnectionPool(host='eudravigilance-offline.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554178AD0>: Failed to resolve 'eudravigilance-offline.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://eudravigilance-offline.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://evtest-offline.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://evtest-offline.ema.europa.eu: HTTPSConnectionPool(host='evtest-offline.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025554173610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+https://evtest-offline.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://evvet2.ema.europa.eu: HTTPSConnectionPool(host='evvet2.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554181590>: Failed to resolve 'evvet2.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://evvet2.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://evvet2-xcomp.ema.europa.eu: HTTPSConnectionPool(host='evvet2-xcomp.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554179490>: Failed to resolve 'evvet2-xcomp.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://evvet2-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://evvet2.ema.europa.eu: HTTPConnectionPool(host='evvet2.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554163DD0>: Failed to resolve 'evvet2.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://evvet2.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://evvet2-xcomp.ema.europa.eu: HTTPConnectionPool(host='evvet2-xcomp.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025553C17B50>: Failed to resolve 'evvet2-xcomp.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://evvet2-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-apps.ema.europa.eu: HTTPConnectionPool(host='eudravigilance-apps.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554173B90>, 'Connection to eudravigilance-apps.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudravigilance-apps.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-apps.ema.europa.eu: HTTPSConnectionPool(host='eudravigilance-apps.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554170C50>, 'Connection to eudravigilance-apps.ema.europa.eu timed out. (connect timeout=10)'))
+https://eudravigilance-apps.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-apps-training.ema.europa.eu: HTTPConnectionPool(host='eudravigilance-apps-training.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554182350>, 'Connection to eudravigilance-apps-training.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudravigilance-apps-training.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-apps-training.ema.europa.eu: HTTPSConnectionPool(host='eudravigilance-apps-training.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000255541383D0>, 'Connection to eudravigilance-apps-training.ema.europa.eu timed out. (connect timeout=10)'))
+https://eudravigilance-apps-training.ema.europa.eu has an error, and responds with 500
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap-shadow.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap-shadow.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap-vet.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'dap.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.encepp.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'encepp.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.encepp.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubmission.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubmission.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubregistration.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubregistration.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubregistration.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubweb.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubweb.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubweb-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esubweb-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvac.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'esvacbi.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudralink.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudralink.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'eudralink1.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fees.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fees.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fees.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapps.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'fmapps.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'integration.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'knowledgebase.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'loginpublic.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-ddclient.ema.europa.eu: HTTPConnectionPool(host='eudravigilance-ddclient.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541701D0>, 'Connection to eudravigilance-ddclient.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudravigilance-ddclient.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-ddclient.ema.europa.eu: HTTPSConnectionPool(host='eudravigilance-ddclient.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554171ED0>, 'Connection to eudravigilance-ddclient.ema.europa.eu timed out. (connect timeout=10)'))
+https://eudravigilance-ddclient.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudravigilance-ddclient-xcomp.ema.europa.eu: HTTPConnectionPool(host='eudravigilance-ddclient-xcomp.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554161990>, 'Connection to eudravigilance-ddclient-xcomp.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudravigilance-ddclient-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://eudravigilance-ddclient-xcomp.ema.europa.eu: HTTPSConnectionPool(host='eudravigilance-ddclient-xcomp.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554179490>, 'Connection to eudravigilance-ddclient-xcomp.ema.europa.eu timed out. (connect timeout=10)'))
+https://eudravigilance-ddclient-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://accounts.ema.europa.eu (200)
+https://accounts.ema.europa.eu/registration (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ans.ema.europa.eu: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+http://ans.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://api-eurs.emea.eu.int is Internal domain
+http://art45-paediatric-studies.ema.europa.eu (200)
+http://art45-paediatric-studies.ema.europa.eu/clinicaltrials/ (200)
+http://art45-paediatric-studies-docs.ema.europa.eu (200)
+http://askema-rest.ema.europa.eu (200)
+https://askema-rest.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://autodiscover.ema.europa.eu: HTTPSConnectionPool(host='autodiscover.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554171C50>, 'Connection to autodiscover.ema.europa.eu timed out. (connect timeout=10)'))
+https://autodiscover.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://autodiscover.ext.ema.europa.eu: HTTPSConnectionPool(host='autodiscover.ext.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000025554178550>, 'Connection to autodiscover.ext.ema.europa.eu timed out. (connect timeout=10)'))
+https://autodiscover.ext.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://bi.ema.europa.eu (200)
+https://bi.ema.europa.eu (200)
+http://charon-test.ema.europa.eu (200)
+https://charon-test.ema.europa.eu (200)
+http://contact-sync.ema.europa.eu (200)
+http://contact-sync-v2.ema.europa.eu (403)
+https://contact-sync-v2.ema.europa.eu (403)
+http://crl.ema.europa.eu/CertEnroll/ (403)
+http://dap.ema.europa.eu (404)
+https://dap.ema.europa.eu (404)
+http://dap-shadow.ema.europa.eu (200)
+https://dap-shadow.ema.europa.eu (200)
+http://dap-vet.ema.europa.eu (404)
+https://dap-vet.ema.europa.eu (404)
+https://docker.emea.eu.int is Internal domain
+http://eaf.ema.europa.eu (200)
+http://emea.europa.eu is Internal domain
+http://encepp.eu (200)
+https://encepp.eu (200)
+http://enprema.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esearch.ema.europa.eu: HTTPConnectionPool(host='esearch.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554184B50>: Failed to resolve 'esearch.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://esearch.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esearch-test.ema.europa.eu: HTTPConnectionPool(host='esearch-test.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000255541C64D0>: Failed to resolve 'esearch-test.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://esearch-test.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esubclient.ema.europa.eu: HTTPConnectionPool(host='esubclient.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541C6A50>, 'Connection to esubclient.ema.europa.eu timed out. (connect timeout=10)'))
+http://esubclient.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://esubmission.ema.europa.eu (200)
+https://esubmission.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esubregistration.ema.europa.eu: HTTPConnectionPool(host='esubregistration.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541D60D0>, 'Connection to esubregistration.ema.europa.eu timed out. (connect timeout=10)'))
+http://esubregistration.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://esubregistration.ema.europa.eu (200)
+https://esubregistration.ema.europa.eu/registration/admin/ (403)
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mytoken.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'newlogin.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'newlogin.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'pmf.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esubtestclient.ema.europa.eu: HTTPConnectionPool(host='esubtestclient.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541D76D0>, 'Connection to esubtestclient.ema.europa.eu timed out. (connect timeout=10)'))
+http://esubtestclient.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://esubweb.ema.europa.eu (404)
+https://esubweb.ema.europa.eu (404)
+http://esubweb-xcomp.ema.europa.eu (404)
+https://esubweb-xcomp.ema.europa.eu (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://esvac.ema.europa.eu: HTTPConnectionPool(host='esvac.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541D46D0>, 'Connection to esvac.ema.europa.eu timed out. (connect timeout=10)'))
+http://esvac.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://esvac.ema.europa.eu (200)
+http://esvacbi.ema.europa.eu (404)
+https://esvacbi.ema.europa.eu (404)
+http://eudragmdp.ema.europa.eu (200)
+http://eudragmp.ema.europa.eu (200)
+http://eudralink.ema.europa.eu (200)
+https://eudralink.ema.europa.eu (200)
+https://eudralink1.ema.europa.eu (200)
+http://eudrapharm.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudrapharm.eu: HTTPConnectionPool(host='www.eudrapharm.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554145550>: Failed to resolve 'www.eudrapharm.eu' ([Errno 11001] getaddrinfo failed)"))
+http://eudrapharm.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://fees.ema.europa.eu: HTTPConnectionPool(host='fees.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554146110>, 'Connection to fees.ema.europa.eu timed out. (connect timeout=10)'))
+http://fees.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://fees.ema.europa.eu (200)
+http://fmapps.ema.europa.eu (200)
+https://fmapps.ema.europa.eu (200)
+https://integration.ema.europa.eu (404)
+http://knowledgebase.ema.europa.eu (401)
+https://knowledgebase.ema.europa.eu (401)
+https://login.ema.europa.eu (200)
+http://loginpublic.ema.europa.eu (200)
+https://loginpublic.ema.europa.eu (200)
+http://maintenance.ema.europa.eu (200)
+http://moved.ema.europa.eu (200)
+http://mytoken.ema.europa.eu (200)
+https://mytoken.ema.europa.eu (200)
+http://newlogin.ema.europa.eu (200)
+https://newlogin.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://owa.ema.europa.eu/: HTTPSConnectionPool(host='owa.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554135F10>: Failed to resolve 'owa.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://owa.ema.europa.eu/ has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://owa.ema.europa.eu/ecp: HTTPSConnectionPool(host='owa.ema.europa.eu', port=443): Max retries exceeded with url: /ecp (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000255541D4AD0>: Failed to resolve 'owa.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://owa.ema.europa.eu/ecp has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://owa.ema.europa.eu/owa: HTTPSConnectionPool(host='owa.ema.europa.eu', port=443): Max retries exceeded with url: /owa (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554164F50>: Failed to resolve 'owa.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://owa.ema.europa.eu/owa has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://pim.ema.europa.eu (200)
+https://pmf.ema.europa.eu (200)
+http://register.ema.europa.eu (404)
+https://register.ema.europa.eu (200)
+https://register.ema.europa.eu/identityiq/analyze (200)
+https://register.ema.europa.eu/identityiq/debug (200)
+https://register.ema.europa.eu/identityiq/define (200)
+https://register.ema.europa.eu/identityiq/include/identityQuery.js (500)
+https://register.ema.europa.eu/identityiq/monitor (200)
+https://register.ema.europa.eu/identityiq/systemSetup (200)
+http://registrymirror.ema.europa.eu (500)
+https://registrymirror.ema.europa.eu (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://remote.ema.europa.eu: HTTPConnectionPool(host='remote.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541453D0>, 'Connection to remote.ema.europa.eu timed out. (connect timeout=10)'))
+http://remote.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://remotesupport.ema.europa.eu (200)
+https://remotesupport.ema.europa.eu (200)
+http://repo.ema.europa.eu (401)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://sb-xcomp.ema.europa.eu: HTTPConnectionPool(host='sb-xcomp.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025558AF0590>: Failed to resolve 'sb-xcomp.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://sb-xcomp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://scad.ema.europa.eu: HTTPConnectionPool(host='scad.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554164910>: Failed to resolve 'scad.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://scad.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://servicedesk.ema.europa.eu (401)
+https://servicedesk.ema.europa.eu (401)
+https://servicedesk.ema.europa.eu/jira/monitoring* (401)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://spor.ema.europa.eu: HTTPConnectionPool(host='spor.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554146410>, 'Connection to spor.ema.europa.eu timed out. (connect timeout=10)'))
+http://spor.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://spor.ema.europa.eu (200)
+http://spor-bare.ema.europa.eu (200)
+https://spor-bare.ema.europa.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://versioncontrol.ema.europa.eu: HTTPConnectionPool(host='versioncontrol.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000255541460D0>: Failed to resolve 'versioncontrol.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://versioncontrol.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://versioncontrol.ema.europa.eu: HTTPSConnectionPool(host='versioncontrol.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025558ADE690>: Failed to resolve 'versioncontrol.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://versioncontrol.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://wap.ema.europa.eu: HTTPSConnectionPool(host='wap.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554151650>: Failed to resolve 'wap.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://wap.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://www.adrreports.eu (200)
+https://www.adrreports.eu (200)
+http://www.encepp.eu (200)
+https://www.encepp.eu (200)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://www.eudrapharm.eu: HTTPConnectionPool(host='www.eudrapharm.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554168290>: Failed to resolve 'www.eudrapharm.eu' ([Errno 11001] getaddrinfo failed)"))
+http://www.eudrapharm.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://sso.ema.europa.eu (404)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://autodiscover.ema.europa.eu: HTTPConnectionPool(host='autodiscover.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554165B10>, 'Connection to autodiscover.ema.europa.eu timed out. (connect timeout=10)'))
+http://autodiscover.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://autodiscover.ext.ema.europa.eu: HTTPConnectionPool(host='autodiscover.ext.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554139190>, 'Connection to autodiscover.ext.ema.europa.eu timed out. (connect timeout=10)'))
+http://autodiscover.ext.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://docker.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudralink1.ema.europa.eu: HTTPConnectionPool(host='eudralink1.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554138350>, 'Connection to eudralink1.ema.europa.eu timed out. (connect timeout=10)'))
+http://eudralink1.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://integration.ema.europa.eu (500)
+http://login.ema.europa.eu (500)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pmf.ema.europa.eu: HTTPConnectionPool(host='pmf.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554167190>, 'Connection to pmf.ema.europa.eu timed out. (connect timeout=10)'))
+http://pmf.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://wap.ema.europa.eu: HTTPConnectionPool(host='wap.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554153150>: Failed to resolve 'wap.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://wap.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://sso.ema.europa.eu: HTTPConnectionPool(host='sso.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554028F10>, 'Connection to sso.ema.europa.eu timed out. (connect timeout=10)'))
+http://sso.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://eudraportaluk.eudra.org: HTTPConnectionPool(host='eudraportaluk.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554144AD0>: Failed to resolve 'eudraportaluk.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://eudraportaluk.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://euctis-prod-angular.ema.europa.eu: HTTPSConnectionPool(host='euctis-prod-angular.ema.europa.eu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002555416B290>: Failed to resolve 'euctis-prod-angular.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+https://euctis-prod-angular.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://jenkins.emea.eu.int is Internal domain
+https://jenkins.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://logs: HTTPConnectionPool(host='logs', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002555403ACD0>: Failed to resolve 'logs' ([Errno 11001] getaddrinfo failed)"))
+http://logs has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ohslogs.emea.eu.int is Internal domain
+https://ohslogs.emea.eu.int is Internal domain
+http://virtualhosts.emea.eu.int is Internal domain
+https://virtualhosts.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://euctis-prod-angular.ema.europa.eu: HTTPConnectionPool(host='euctis-prod-angular.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002555402A610>: Failed to resolve 'euctis-prod-angular.ema.europa.eu' ([Errno 11001] getaddrinfo failed)"))
+http://euctis-prod-angular.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing scanmydata.ema.eu.int:1344: No connection adapters were found for 'scanmydata.ema.eu.int:1344'
+scanmydata.ema.eu.int:1344 has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://pm: HTTPConnectionPool(host='pm', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554168BD0>: Failed to resolve 'pm' ([Errno 11001] getaddrinfo failed)"))
+http://pm has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://pm: HTTPSConnectionPool(host='pm', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554152CD0>: Failed to resolve 'pm' ([Errno 11001] getaddrinfo failed)"))
+https://pm has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://pm.emea.eu.int is Internal domain
+https://pm.emea.eu.int is Internal domain
+http://analytics-backend.emea.eu.int is Internal domain
+https://analytics-backend.emea.eu.int is Internal domain
+http://apps.emea.eu.int is Internal domain
+http://apps.emea.eu.int/esub-log-app is Internal domain
+https://apps.emea.eu.int/esub-log-app is Internal domain
+http://askema-rest.emea.eu.int is Internal domain
+https://askema-rest.emea.eu.int is Internal domain
+https://autodiscover.emea.eu.int is Internal domain
+http://bcs.emea.eu.int is Internal domain
+http://contracts.emea.eu.int is Internal domain
+http://di.emea.eu.int is Internal domain
+http://docs2.emea.eu.int is Internal domain
+http://ecdm-rest.emea.eu.int is Internal domain
+https://ecdm-rest.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ecdutils: HTTPConnectionPool(host='ecdutils', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002555413D7D0>: Failed to resolve 'ecdutils' ([Errno 11001] getaddrinfo failed)"))
+http://ecdutils has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ecdutils.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ema-staging: HTTPConnectionPool(host='ema-staging', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554139A90>: Failed to resolve 'ema-staging' ([Errno 11001] getaddrinfo failed)"))
+http://ema-staging has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ema-staging.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://ema-wip: HTTPConnectionPool(host='ema-wip', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554136150>: Failed to resolve 'ema-wip' ([Errno 11001] getaddrinfo failed)"))
+http://ema-wip has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://ema-wip.emea.eu.int is Internal domain
+http://emea-wcms.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://erp-hr: HTTPConnectionPool(host='erp-hr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554166ED0>: Failed to resolve 'erp-hr' ([Errno 11001] getaddrinfo failed)"))
+http://erp-hr has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://erp-hr.emea.eu.int is Internal domain
+https://erp-hr.emea.eu.int is Internal domain
+http://esubmission.emea.europa.eu is Internal domain
+http://eurs-next.emea.eu.int is Internal domain
+https://eurs-next.emea.eu.int is Internal domain
+http://fmapps.emea.europa.eu is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://gwfh: HTTPConnectionPool(host='gwfh', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554151D90>: Failed to resolve 'gwfh' ([Errno 11001] getaddrinfo failed)"))
+http://gwfh has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://gwfh.emea.eu.int is Internal domain
+https://gwfh.emea.eu.int is Internal domain
+http://gwfh-xcomp.emea.eu.int is Internal domain
+https://gwfh-xcomp.emea.eu.int is Internal domain
+http://iam.emea.eu.int is Internal domain
+https://iam.emea.eu.int is Internal domain
+https://internal.euctis.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://mms: HTTPConnectionPool(host='mms', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025558AF2E10>: Failed to resolve 'mms' ([Errno 11001] getaddrinfo failed)"))
+http://mms has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://mms.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://mmse.ema.europa.eu: HTTPConnectionPool(host='mmse.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000255541D6290>, 'Connection to mmse.ema.europa.eu timed out. (connect timeout=10)'))
+http://mmse.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://monitoring: HTTPConnectionPool(host='monitoring', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554146210>: Failed to resolve 'monitoring' ([Errno 11001] getaddrinfo failed)"))
+http://monitoring has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://monitoring.emea.eu.int is Internal domain
+http://nimbustest100.emea.eu.int is Internal domain
+http://oap.emea.eu.int is Internal domain
+http://osb.emea.eu.int is Internal domain
+https://outlook.emea.eu.int/ is Internal domain
+https://outlook.emea.eu.int/autodiscover is Internal domain
+https://outlook.emea.eu.int/ews is Internal domain
+https://outlook.emea.eu.int/mapi is Internal domain
+https://outlook.emea.eu.int/oab is Internal domain
+https://outlook.emea.eu.int/rpc is Internal domain
+http://phvparser.emea.eu.int is Internal domain
+http://phvparser-training.emea.eu.int is Internal domain
+http://phvparser-xcomp.emea.eu.int is Internal domain
+http://scad.emea.eu.int is Internal domain
+http://siamed.emea.eu.int is Internal domain
+https://siamed.emea.eu.int is Internal domain
+http://sonar.emea.eu.int is Internal domain
+https://sonar.emea.eu.int is Internal domain
+https://sonar.emea.eu.int/v9 is Internal domain
+http://spor.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://visitors: HTTPConnectionPool(host='visitors', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000025554135750>: Failed to resolve 'visitors' ([Errno 11001] getaddrinfo failed)"))
+http://visitors has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing https://visitors: HTTPSConnectionPool(host='visitors', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000025554169690>: Failed to resolve 'visitors' ([Errno 11001] getaddrinfo failed)"))
+https://visitors has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+http://visitors.emea.eu.int is Internal domain
+https://visitors.emea.eu.int is Internal domain
+http://www.emea.europa.eu is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://webproxyconf.eudra.org: HTTPConnectionPool(host='webproxyconf.eudra.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000255541D6A10>: Failed to resolve 'webproxyconf.eudra.org' ([Errno 11001] getaddrinfo failed)"))
+http://webproxyconf.eudra.org has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://mmse.ema.europa.eu (200)
+https://cloudcontrol.emea.eu.int:4889 is Internal domain
+https://oem.emea.eu.int:4889 is Internal domain
+https://cloudcontrol.emea.eu.int::4903 is Internal domain
+https://oem.emea.eu.int:4903 is Internal domain
+https://oem.emea.eu.int:7201 is Internal domain
+https://cloudcontrol.emea.eu.int:7301 is Internal domain
+https://oem.emea.eu.int:7301 is Internal domain
+https://cloudcontrol.emea.eu.int:9851 is Internal domain
+https://oem.emea.eu.int:9851 is Internal domain
+https://oem.emea.eu.int:7788 is Internal domain
+https://oem.emea.eu.int:9788 is Internal domain
+http://autodiscover.emea.eu.int is Internal domain
+http://internal.euctis.emea.eu.int is Internal domain
+https://oem.emea.eu.int is Internal domain
+http://mdm.emea.eu.int is Internal domain
+https://mdm.emea.eu.int is Internal domain
+http://cloudcontrol.emea.eu.int is Internal domain
+https://cloudcontrol.emea.eu.int is Internal domain
+http://eutct.emea.eu.int is Internal domain
+https://eutct.emea.eu.int is Internal domain
+http://logs.emea.eu.int is Internal domain
+https://logs.emea.eu.int is Internal domain
+http://resources.jenkins.emea.eu.int is Internal domain
+https://resources.jenkins.emea.eu.int is Internal domain
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing http://psur-repo.ema.europa.eu: HTTPConnectionPool(host='psur-repo.ema.europa.eu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000025554152110>, 'Connection to psur-repo.ema.europa.eu timed out. (connect timeout=10)'))
+http://psur-repo.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+https://psur-repo.ema.europa.eu (403)
+http://psur-repo-xcomp.ema.europa.eu (403)
+https://psur-repo-xcomp.ema.europa.eu (403)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Error processing smtp.ema.europa.eu: Invalid URL 'smtp.ema.europa.eu': No scheme supplied. Perhaps you meant https://smtp.ema.europa.eu?
+smtp.ema.europa.eu has an error, and responds with 500
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ParseResult(scheme='http', netloc='pgateway.ema.europa.eu', path='', params='', query='', fragment='')
+pgateway.ema.europa.eu
+Looking for >>>>> pgateway.ema.europa.eu
+ParseResult(scheme='pgateway.ema.europa.eu', netloc='', path='8080', params='', query='', fragment='')
+
+Looking for >>>>> 
+ParseResult(scheme='http', netloc='vgateway.ema.europa.eu', path='', params='', query='', fragment='')
+vgateway.ema.europa.eu
+Looking for >>>>> vgateway.ema.europa.eu
+ParseResult(scheme='vgateway.ema.europa.eu', netloc='', path='8080', params='', query='', fragment='')
+
+Looking for >>>>> 
+ParseResult(scheme='http', netloc='liferaydefault-7.ema.europa.eu', path='', params='', query='', fragment='')
+liferaydefault-7.ema.europa.eu
+Looking for >>>>> liferaydefault-7.ema.europa.eu
+ParseResult(scheme='https', netloc='liferaydefault-7.ema.europa.eu', path='', params='', query='', fragment='')
+liferaydefault-7.ema.europa.eu
+Looking for >>>>> liferaydefault-7.ema.europa.eu
+ParseResult(scheme='http', netloc='www-training.clinicaltrialsregister.eu', path='', params='', query='', fragment='')
+www-training.clinicaltrialsregister.eu
+Looking for >>>>> www-training.clinicaltrialsregister.eu
+ParseResult(scheme='https', netloc='www-training.clinicaltrialsregister.eu', path='', params='', query='', fragment='')
+www-training.clinicaltrialsregister.eu
+Looking for >>>>> www-training.clinicaltrialsregister.eu
+ParseResult(scheme='http', netloc='eudract.ema.europa.eu', path='', params='', query='', fragment='')
+eudract.ema.europa.eu
+Looking for >>>>> eudract.ema.europa.eu
+ParseResult(scheme='http', netloc='eudract-training.ema.europa.eu', path='', params='', query='', fragment='')
+eudract-training.ema.europa.eu
+Looking for >>>>> eudract-training.ema.europa.eu
+ParseResult(scheme='http', netloc='eudrapharm.eudra.org', path='', params='', query='', fragment='')
+eudrapharm.eudra.org
+Looking for >>>>> eudrapharm.eudra.org
+ParseResult(scheme='http', netloc='aem.eudra.org', path='', params='', query='', fragment='')
+aem.eudra.org
+Looking for >>>>> aem.eudra.org
+ParseResult(scheme='http', netloc='api-cr.eudra.org', path='', params='', query='', fragment='')
+api-cr.eudra.org
+Looking for >>>>> api-cr.eudra.org
+ParseResult(scheme='https', netloc='api-cr.eudra.org', path='', params='', query='', fragment='')
+api-cr.eudra.org
+Looking for >>>>> api-cr.eudra.org
+ParseResult(scheme='https', netloc='api-cr.eudra.org', path='/$', params='', query='', fragment='')
+api-cr.eudra.org
+Looking for >>>>> api-cr.eudra.org
+ParseResult(scheme='https', netloc='api-cr.eudra.org', path='/dossiers/[a-zA-Z0-9_\\-()]+/sequences/[a-zA-Z0-9_\\-()]+/workingdocuments', params='', query='', fragment='')
+api-cr.eudra.org
+Looking for >>>>> api-cr.eudra.org
+ParseResult(scheme='https', netloc='api-cr.eudra.org', path='/resources', params='', query='', fragment='')
+api-cr.eudra.org
+Looking for >>>>> api-cr.eudra.org
+ParseResult(scheme='http', netloc='askema.eudra.org', path='', params='', query='', fragment='')
+askema.eudra.org
+Looking for >>>>> askema.eudra.org
+ParseResult(scheme='http', netloc='bi.eudra.org', path='', params='', query='', fragment='')
+bi.eudra.org
+Looking for >>>>> bi.eudra.org
+ParseResult(scheme='https', netloc='bi.eudra.org', path='', params='', query='', fragment='')
+bi.eudra.org
+Looking for >>>>> bi.eudra.org
+ParseResult(scheme='http', netloc='bpel.eudra.org', path='', params='', query='', fragment='')
+bpel.eudra.org
+Looking for >>>>> bpel.eudra.org
+ParseResult(scheme='http', netloc='contactsexport.eudra.org', path='', params='', query='', fragment='')
+contactsexport.eudra.org
+Looking for >>>>> contactsexport.eudra.org
+ParseResult(scheme='http', netloc='corpgxp.eudra.org', path='', params='', query='', fragment='')
+corpgxp.eudra.org
+Looking for >>>>> corpgxp.eudra.org
+ParseResult(scheme='http', netloc='corpgxp-weblogic.eudra.org', path='', params='', query='', fragment='')
+corpgxp-weblogic.eudra.org
+Looking for >>>>> corpgxp-weblogic.eudra.org
+ParseResult(scheme='http', netloc='docs.eudra.org', path='', params='', query='', fragment='')
+docs.eudra.org
+Looking for >>>>> docs.eudra.org
+ParseResult(scheme='https', netloc='docs.eudra.org', path='', params='', query='', fragment='')
+docs.eudra.org
+Looking for >>>>> docs.eudra.org
+ParseResult(scheme='http', netloc='docs-upgrade.eudra.org', path='', params='', query='', fragment='')
+docs-upgrade.eudra.org
+Looking for >>>>> docs-upgrade.eudra.org
+ParseResult(scheme='https', netloc='docs-upgrade.eudra.org', path='', params='', query='', fragment='')
+docs-upgrade.eudra.org
+Looking for >>>>> docs-upgrade.eudra.org
+ParseResult(scheme='http', netloc='docs-xcomp.eudra.org', path='', params='', query='', fragment='')
+docs-xcomp.eudra.org
+Looking for >>>>> docs-xcomp.eudra.org
+ParseResult(scheme='https', netloc='docs-xcomp.eudra.org', path='', params='', query='', fragment='')
+docs-xcomp.eudra.org
+Looking for >>>>> docs-xcomp.eudra.org
+ParseResult(scheme='http', netloc='ecdm.eudra.org', path='', params='', query='', fragment='')
+ecdm.eudra.org
+Looking for >>>>> ecdm.eudra.org
+ParseResult(scheme='http', netloc='ecdm-rest.eudra.org', path='', params='', query='', fragment='')
+ecdm-rest.eudra.org
+Looking for >>>>> ecdm-rest.eudra.org
+ParseResult(scheme='https', netloc='ecdm-rest.eudra.org', path='', params='', query='', fragment='')
+ecdm-rest.eudra.org
+Looking for >>>>> ecdm-rest.eudra.org
+ParseResult(scheme='http', netloc='ema-wip.eudra.org', path='', params='', query='', fragment='')
+ema-wip.eudra.org
+Looking for >>>>> ema-wip.eudra.org
+ParseResult(scheme='http', netloc='eudract.eudra.org', path='', params='', query='', fragment='')
+eudract.eudra.org
+Looking for >>>>> eudract.eudra.org
+ParseResult(scheme='http', netloc='eudract-training.eudra.org', path='', params='', query='', fragment='')
+eudract-training.eudra.org
+Looking for >>>>> eudract-training.eudra.org
+ParseResult(scheme='http', netloc='eudragmdp.eudra.org', path='', params='', query='', fragment='')
+eudragmdp.eudra.org
+Looking for >>>>> eudragmdp.eudra.org
+ParseResult(scheme='http', netloc='eudragmp.eudra.org', path='', params='', query='', fragment='')
+eudragmp.eudra.org
+Looking for >>>>> eudragmp.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='https', netloc='eutct.eudra.org', path='', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/eutctid/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/gsearch/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/lists/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/registerterm/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/searchdynamic/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/searchstatic/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='eutct.eudra.org', path='/eutct/terms/', params='', query='', fragment='')
+eutct.eudra.org
+Looking for >>>>> eutct.eudra.org
+ParseResult(scheme='http', netloc='euteleproj.eudra.org', path='', params='', query='', fragment='')
+euteleproj.eudra.org
+Looking for >>>>> euteleproj.eudra.org
+ParseResult(scheme='http', netloc='euteleproj.eudra.org', path='/eudragmp/doc', params='', query='', fragment='')
+euteleproj.eudra.org
+Looking for >>>>> euteleproj.eudra.org
+ParseResult(scheme='http', netloc='evlit.eudra.org', path='', params='', query='', fragment='')
+evlit.eudra.org
+Looking for >>>>> evlit.eudra.org
+ParseResult(scheme='http', netloc='experts.eudra.org', path='', params='', query='', fragment='')
+experts.eudra.org
+Looking for >>>>> experts.eudra.org
+ParseResult(scheme='https', netloc='experts.eudra.org', path='', params='', query='', fragment='')
+experts.eudra.org
+Looking for >>>>> experts.eudra.org
+ParseResult(scheme='http', netloc='paediatrics.eudra.org', path='', params='', query='', fragment='')
+paediatrics.eudra.org
+Looking for >>>>> paediatrics.eudra.org
+ParseResult(scheme='https', netloc='paediatrics.eudra.org', path='', params='', query='', fragment='')
+paediatrics.eudra.org
+Looking for >>>>> paediatrics.eudra.org
+ParseResult(scheme='http', netloc='pfoi.eudra.org', path='', params='', query='', fragment='')
+pfoi.eudra.org
+Looking for >>>>> pfoi.eudra.org
+ParseResult(scheme='http', netloc='pmnca.eudra.org', path='', params='', query='', fragment='')
+pmnca.eudra.org
+Looking for >>>>> pmnca.eudra.org
+ParseResult(scheme='http', netloc='psur-repo.eudra.org', path='', params='', query='', fragment='')
+psur-repo.eudra.org
+Looking for >>>>> psur-repo.eudra.org
+ParseResult(scheme='https', netloc='psur-repo.eudra.org', path='', params='', query='', fragment='')
+psur-repo.eudra.org
+Looking for >>>>> psur-repo.eudra.org
+ParseResult(scheme='http', netloc='psur-repo-xcomp.eudra.org', path='', params='', query='', fragment='')
+psur-repo-xcomp.eudra.org
+Looking for >>>>> psur-repo-xcomp.eudra.org
+ParseResult(scheme='https', netloc='psur-repo-xcomp.eudra.org', path='', params='', query='', fragment='')
+psur-repo-xcomp.eudra.org
+Looking for >>>>> psur-repo-xcomp.eudra.org
+ParseResult(scheme='http', netloc='seeder-cr.eudra.org', path='', params='', query='', fragment='')
+seeder-cr.eudra.org
+Looking for >>>>> seeder-cr.eudra.org
+ParseResult(scheme='http', netloc='services.eudra.org', path='', params='', query='', fragment='')
+services.eudra.org
+Looking for >>>>> services.eudra.org
+ParseResult(scheme='http', netloc='spor.eudra.org', path='', params='', query='', fragment='')
+spor.eudra.org
+Looking for >>>>> spor.eudra.org
+ParseResult(scheme='http', netloc='tracker1-cr.eudra.org', path='', params='', query='', fragment='')
+tracker1-cr.eudra.org
+Looking for >>>>> tracker1-cr.eudra.org
+ParseResult(scheme='http', netloc='tracker2-cr.eudra.org', path='', params='', query='', fragment='')
+tracker2-cr.eudra.org
+Looking for >>>>> tracker2-cr.eudra.org
+ParseResult(scheme='http', netloc='vod.eudra.org', path='', params='', query='', fragment='')
+vod.eudra.org
+Looking for >>>>> vod.eudra.org
+ParseResult(scheme='http', netloc='web-cr.eudra.org', path='', params='', query='', fragment='')
+web-cr.eudra.org
+Looking for >>>>> web-cr.eudra.org
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'register.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'registrymirror.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'registrymirror.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'remotesupport.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'remotesupport.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'servicedesk.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'spor.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'spor.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'spor.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'spor-bare.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'spor-bare.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'login.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.adrreports.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.adrreports.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.encepp.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'www.encepp.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sso.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'mmse.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+C:\Users\Rui Filipe\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py:1100: InsecureRequestWarning: Unverified HTTPS request is being made to host 'psur-repo-xcomp.ema.europa.eu'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings
+  warnings.warn(
+ParseResult(scheme='https', netloc='web-cr.eudra.org', path='', params='', query='', fragment='')
+web-cr.eudra.org
+Looking for >>>>> web-cr.eudra.org
+ParseResult(scheme='http', netloc='www.eudra.org', path='', params='', query='', fragment='')
+www.eudra.org
+Looking for >>>>> www.eudra.org
+ParseResult(scheme='http', netloc='eudravigilance-human-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-human-xcomp.ema.europa.eu
+Looking for >>>>> eudravigilance-human-xcomp.ema.europa.eu
+ParseResult(scheme='http', netloc='eudravigilance-offline.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-offline.ema.europa.eu
+Looking for >>>>> eudravigilance-offline.ema.europa.eu
+ParseResult(scheme='https', netloc='eudravigilance-offline.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-offline.ema.europa.eu
+Looking for >>>>> eudravigilance-offline.ema.europa.eu
+ParseResult(scheme='https', netloc='evtest-offline.ema.europa.eu', path='', params='', query='', fragment='')
+evtest-offline.ema.europa.eu
+Looking for >>>>> evtest-offline.ema.europa.eu
+ParseResult(scheme='https', netloc='evvet2.ema.europa.eu', path='', params='', query='', fragment='')
+evvet2.ema.europa.eu
+Looking for >>>>> evvet2.ema.europa.eu
+ParseResult(scheme='https', netloc='evvet2-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+evvet2-xcomp.ema.europa.eu
+Looking for >>>>> evvet2-xcomp.ema.europa.eu
+ParseResult(scheme='http', netloc='evvet2.ema.europa.eu', path='', params='', query='', fragment='')
+evvet2.ema.europa.eu
+Looking for >>>>> evvet2.ema.europa.eu
+ParseResult(scheme='http', netloc='evvet2-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+evvet2-xcomp.ema.europa.eu
+Looking for >>>>> evvet2-xcomp.ema.europa.eu
+ParseResult(scheme='http', netloc='eudravigilance-apps.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-apps.ema.europa.eu
+Looking for >>>>> eudravigilance-apps.ema.europa.eu
+ParseResult(scheme='https', netloc='eudravigilance-apps.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-apps.ema.europa.eu
+Looking for >>>>> eudravigilance-apps.ema.europa.eu
+ParseResult(scheme='http', netloc='eudravigilance-apps-training.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-apps-training.ema.europa.eu
+Looking for >>>>> eudravigilance-apps-training.ema.europa.eu
+ParseResult(scheme='https', netloc='eudravigilance-apps-training.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-apps-training.ema.europa.eu
+Looking for >>>>> eudravigilance-apps-training.ema.europa.eu
+ParseResult(scheme='http', netloc='eudravigilance-ddclient.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-ddclient.ema.europa.eu
+Looking for >>>>> eudravigilance-ddclient.ema.europa.eu
+ParseResult(scheme='https', netloc='eudravigilance-ddclient.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-ddclient.ema.europa.eu
+Looking for >>>>> eudravigilance-ddclient.ema.europa.eu
+ParseResult(scheme='http', netloc='eudravigilance-ddclient-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-ddclient-xcomp.ema.europa.eu
+Looking for >>>>> eudravigilance-ddclient-xcomp.ema.europa.eu
+ParseResult(scheme='https', netloc='eudravigilance-ddclient-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+eudravigilance-ddclient-xcomp.ema.europa.eu
+Looking for >>>>> eudravigilance-ddclient-xcomp.ema.europa.eu
+ParseResult(scheme='http', netloc='ans.ema.europa.eu', path='', params='', query='', fragment='')
+ans.ema.europa.eu
+Looking for >>>>> ans.ema.europa.eu
+ParseResult(scheme='https', netloc='autodiscover.ema.europa.eu', path='', params='', query='', fragment='')
+autodiscover.ema.europa.eu
+Looking for >>>>> autodiscover.ema.europa.eu
+ParseResult(scheme='https', netloc='autodiscover.ext.ema.europa.eu', path='', params='', query='', fragment='')
+autodiscover.ext.ema.europa.eu
+Looking for >>>>> autodiscover.ext.ema.europa.eu
+ParseResult(scheme='http', netloc='esearch.ema.europa.eu', path='', params='', query='', fragment='')
+esearch.ema.europa.eu
+Looking for >>>>> esearch.ema.europa.eu
+ParseResult(scheme='http', netloc='esearch-test.ema.europa.eu', path='', params='', query='', fragment='')
+esearch-test.ema.europa.eu
+Looking for >>>>> esearch-test.ema.europa.eu
+ParseResult(scheme='http', netloc='esubclient.ema.europa.eu', path='', params='', query='', fragment='')
+esubclient.ema.europa.eu
+Looking for >>>>> esubclient.ema.europa.eu
+ParseResult(scheme='http', netloc='esubregistration.ema.europa.eu', path='', params='', query='', fragment='')
+esubregistration.ema.europa.eu
+Looking for >>>>> esubregistration.ema.europa.eu
+ParseResult(scheme='http', netloc='esubtestclient.ema.europa.eu', path='', params='', query='', fragment='')
+esubtestclient.ema.europa.eu
+Looking for >>>>> esubtestclient.ema.europa.eu
+ParseResult(scheme='http', netloc='esvac.ema.europa.eu', path='', params='', query='', fragment='')
+esvac.ema.europa.eu
+Looking for >>>>> esvac.ema.europa.eu
+ParseResult(scheme='http', netloc='eudrapharm.eu', path='', params='', query='', fragment='')
+eudrapharm.eu
+Looking for >>>>> eudrapharm.eu
+ParseResult(scheme='http', netloc='fees.ema.europa.eu', path='', params='', query='', fragment='')
+fees.ema.europa.eu
+Looking for >>>>> fees.ema.europa.eu
+ParseResult(scheme='https', netloc='owa.ema.europa.eu', path='/', params='', query='', fragment='')
+owa.ema.europa.eu
+Looking for >>>>> owa.ema.europa.eu
+ParseResult(scheme='https', netloc='owa.ema.europa.eu', path='/ecp', params='', query='', fragment='')
+owa.ema.europa.eu
+Looking for >>>>> owa.ema.europa.eu
+ParseResult(scheme='https', netloc='owa.ema.europa.eu', path='/owa', params='', query='', fragment='')
+owa.ema.europa.eu
+Looking for >>>>> owa.ema.europa.eu
+ParseResult(scheme='http', netloc='remote.ema.europa.eu', path='', params='', query='', fragment='')
+remote.ema.europa.eu
+Looking for >>>>> remote.ema.europa.eu
+ParseResult(scheme='http', netloc='sb-xcomp.ema.europa.eu', path='', params='', query='', fragment='')
+sb-xcomp.ema.europa.eu
+Looking for >>>>> sb-xcomp.ema.europa.eu
+ParseResult(scheme='http', netloc='scad.ema.europa.eu', path='', params='', query='', fragment='')
+scad.ema.europa.eu
+Looking for >>>>> scad.ema.europa.eu
+ParseResult(scheme='http', netloc='spor.ema.europa.eu', path='', params='', query='', fragment='')
+spor.ema.europa.eu
+Looking for >>>>> spor.ema.europa.eu
+ParseResult(scheme='http', netloc='versioncontrol.ema.europa.eu', path='', params='', query='', fragment='')
+versioncontrol.ema.europa.eu
+Looking for >>>>> versioncontrol.ema.europa.eu
+ParseResult(scheme='https', netloc='versioncontrol.ema.europa.eu', path='', params='', query='', fragment='')
+versioncontrol.ema.europa.eu
+Looking for >>>>> versioncontrol.ema.europa.eu
+ParseResult(scheme='https', netloc='wap.ema.europa.eu', path='', params='', query='', fragment='')
+wap.ema.europa.eu
+Looking for >>>>> wap.ema.europa.eu
+ParseResult(scheme='http', netloc='www.eudrapharm.eu', path='', params='', query='', fragment='')
+www.eudrapharm.eu
+Looking for >>>>> www.eudrapharm.eu
+ParseResult(scheme='http', netloc='autodiscover.ema.europa.eu', path='', params='', query='', fragment='')
+autodiscover.ema.europa.eu
+Looking for >>>>> autodiscover.ema.europa.eu
+ParseResult(scheme='http', netloc='autodiscover.ext.ema.europa.eu', path='', params='', query='', fragment='')
+autodiscover.ext.ema.europa.eu
+Looking for >>>>> autodiscover.ext.ema.europa.eu
+ParseResult(scheme='http', netloc='eudralink1.ema.europa.eu', path='', params='', query='', fragment='')
+eudralink1.ema.europa.eu
+Looking for >>>>> eudralink1.ema.europa.eu
+ParseResult(scheme='http', netloc='pmf.ema.europa.eu', path='', params='', query='', fragment='')
+pmf.ema.europa.eu
+Looking for >>>>> pmf.ema.europa.eu
+ParseResult(scheme='http', netloc='wap.ema.europa.eu', path='', params='', query='', fragment='')
+wap.ema.europa.eu
+Looking for >>>>> wap.ema.europa.eu
+ParseResult(scheme='http', netloc='sso.ema.europa.eu', path='', params='', query='', fragment='')
+sso.ema.europa.eu
+Looking for >>>>> sso.ema.europa.eu
+ParseResult(scheme='http', netloc='eudraportaluk.eudra.org', path='', params='', query='', fragment='')
+eudraportaluk.eudra.org
+Looking for >>>>> eudraportaluk.eudra.org
+ParseResult(scheme='https', netloc='euctis-prod-angular.ema.europa.eu', path='', params='', query='', fragment='')
+euctis-prod-angular.ema.europa.eu
+Looking for >>>>> euctis-prod-angular.ema.europa.eu
+ParseResult(scheme='http', netloc='logs', path='', params='', query='', fragment='')
+logs
+Looking for >>>>> logs
+ParseResult(scheme='http', netloc='euctis-prod-angular.ema.europa.eu', path='', params='', query='', fragment='')
+euctis-prod-angular.ema.europa.eu
+Looking for >>>>> euctis-prod-angular.ema.europa.eu
+ParseResult(scheme='scanmydata.ema.eu.int', netloc='', path='1344', params='', query='', fragment='')
+
+Looking for >>>>> 
+ParseResult(scheme='http', netloc='pm', path='', params='', query='', fragment='')
+pm
+Looking for >>>>> pm
+ParseResult(scheme='https', netloc='pm', path='', params='', query='', fragment='')
+pm
+Looking for >>>>> pm
+ParseResult(scheme='http', netloc='ecdutils', path='', params='', query='', fragment='')
+ecdutils
+Looking for >>>>> ecdutils
+ParseResult(scheme='http', netloc='ema-staging', path='', params='', query='', fragment='')
+ema-staging
+Looking for >>>>> ema-staging
+ParseResult(scheme='http', netloc='ema-wip', path='', params='', query='', fragment='')
+ema-wip
+Looking for >>>>> ema-wip
+ParseResult(scheme='http', netloc='erp-hr', path='', params='', query='', fragment='')
+erp-hr
+Looking for >>>>> erp-hr
+ParseResult(scheme='http', netloc='gwfh', path='', params='', query='', fragment='')
+gwfh
+Looking for >>>>> gwfh
+ParseResult(scheme='http', netloc='mms', path='', params='', query='', fragment='')
+mms
+Looking for >>>>> mms
+ParseResult(scheme='http', netloc='mmse.ema.europa.eu', path='', params='', query='', fragment='')
+mmse.ema.europa.eu
+Looking for >>>>> mmse.ema.europa.eu
+ParseResult(scheme='http', netloc='monitoring', path='', params='', query='', fragment='')
+monitoring
+Looking for >>>>> monitoring
+ParseResult(scheme='http', netloc='visitors', path='', params='', query='', fragment='')
+visitors
+Looking for >>>>> visitors
+ParseResult(scheme='https', netloc='visitors', path='', params='', query='', fragment='')
+visitors
+Looking for >>>>> visitors
+ParseResult(scheme='http', netloc='webproxyconf.eudra.org', path='', params='', query='', fragment='')
+webproxyconf.eudra.org
+Looking for >>>>> webproxyconf.eudra.org
+ParseResult(scheme='http', netloc='psur-repo.ema.europa.eu', path='', params='', query='', fragment='')
+psur-repo.ema.europa.eu
+Looking for >>>>> psur-repo.ema.europa.eu
+File 'C:\Users\Rui Filipe\OneDrive\ICT\AzureDevOps\EMA-Scripts\APP-v3.r1\appprod3\FILES\ext-verified-list.csv' has been deleted.
+File 'C:\Users\Rui Filipe\OneDrive\ICT\AzureDevOps\EMA-Scripts\APP-v3.r1\appprod3\FILES\dns-results.csv' has been renamed to 'C:\Users\Rui Filipe\OneDrive\ICT\AzureDevOps\EMA-Scripts\APP-v3.r1\appprod3\FILES\ext-verified-list.csv'.
+Convert csv to excel and add new sheet to report in external zone
+Excel to CSV conversion, sheet addition, and Excel conversion completed.
+Loading workbok <openpyxl.workbook.workbook.Workbook object at 0x00000255540F5DD0>
+Formating sheet: <Worksheet "EXT-REFERENCE">
+Formating sheet: <Worksheet "INT-REFERENCE">
+Formating sheet: <Worksheet "EXT-2023.11.10">
+Open report script
